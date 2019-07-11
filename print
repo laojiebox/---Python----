@@ -1,0 +1,6 @@
+import random
+r=random.randrange(1,10)
+if r%2 ==0:
+   print(r,"is rven")
+else:
+   print(r,"is odd")
